@@ -1,4 +1,4 @@
-## Creating AWS Lambda Function with Serverless Framework
+## Creating AWS Lambda Function + API Gateway with Serverless Framework
 
 ## Run and deploy
 
